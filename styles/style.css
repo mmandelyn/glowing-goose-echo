@@ -9,4 +9,9 @@ body {
   font-family: "Comfortaa", sans-serif;
   color: #122a32;
 
+  img {
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 50px;
+  }
 }
